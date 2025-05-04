@@ -36,5 +36,6 @@ Após análise detalhada, recomenda-se a venda da Loja 4 devido a:
 Menor faturamento da rede 
 
 Retorno financeiro insatisfatório
+
 Desenvolvido com ❤️ para o desafio Allure Store
 Open in Colab
